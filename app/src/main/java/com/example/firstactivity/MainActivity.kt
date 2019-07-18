@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val textView = findViewById<TextView>(R.id.hello)
         textView.setText(R.string.fuck_you)
+        //Fuck
     }
 }
